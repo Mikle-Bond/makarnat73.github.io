@@ -1,7 +1,7 @@
 ---
 title: Обо мне
-layout: page
 permalink: "/about/"
+layout: page
 ---
 
 Меня зовут Макарова Наталья Николаевна. 
